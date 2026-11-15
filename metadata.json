@@ -1,0 +1,6 @@
+{
+  "name": "Анализ ЦА новостроек",
+  "description": "Маркетинговое исследование целевой аудитории для покупки квартир в новых ЖК: сегменты, боли, страхи, возражения и критические факторы выбора.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
